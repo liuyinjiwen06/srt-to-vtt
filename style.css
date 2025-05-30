@@ -1,0 +1,79 @@
+body {
+  background: #f8f9fa;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 420px;
+  margin: 50px auto 0 auto;
+  padding: 32px 24px 24px 24px;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  text-align: center;
+}
+h1 {
+  font-size: 1.7em;
+  margin-bottom: 20px;
+}
+.upload-area {
+  border: 2px dashed #4e8cff;
+  border-radius: 10px;
+  padding: 32px 10px;
+  background: #f0f6ff;
+  cursor: pointer;
+  margin-bottom: 18px;
+  transition: border 0.2s;
+}
+.upload-area.dragover {
+  border-color: #1a73e8;
+  background: #e3f0ff;
+}
+.upload-label {
+  color: #4e8cff;
+  font-size: 1.1em;
+  cursor: pointer;
+  display: block;
+}
+input[type="file"] {
+  display: none;
+}
+#message {
+  min-height: 28px;
+  margin-bottom: 16px;
+  color: #e53935;
+  font-size: 1em;
+}
+#download-btn {
+  background: #4e8cff;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 10px 28px;
+  font-size: 1.1em;
+  cursor: pointer;
+  margin-top: 8px;
+  transition: background 0.2s;
+}
+#download-btn:hover {
+  background: #1a73e8;
+}
+#download-btn.hidden {
+  display: none;
+}
+footer {
+  text-align: center;
+  color: #888;
+  font-size: 0.98em;
+  margin-top: 38px;
+}
+@media (max-width: 600px) {
+  .container {
+    margin-top: 18px;
+    padding: 16px 4px 18px 4px;
+  }
+  h1 {
+    font-size: 1.15em;
+  }
+}
