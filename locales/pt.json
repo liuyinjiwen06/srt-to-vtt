@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Conversor de SRT para VTT",
+    "description": "Converta facilmente arquivos de legendas SRT para o formato VTT com nossa ferramenta online."
+  },
+  "home": {
+    "title": "Conversor de SRT para VTT",
+    "subtitle": "Converta seus arquivos de legendas SRT para o formato VTT em segundos",
+    "dropzone": "Arraste seu arquivo SRT aqui ou clique para navegar",
+    "convert": "Converter para VTT",
+    "download": "Baixar VTT",
+    "processing": "Processando...",
+    "success": "Conversão bem-sucedida!",
+    "error": "Erro durante a conversão",
+    "invalidFile": "Formato de arquivo inválido. Por favor, envie um arquivo .srt.",
+    "noFile": "Por favor, selecione um arquivo primeiro."
+  },
+  "footer": {
+    "copyright": "© 2025 Conversor de SRT para VTT. Todos os direitos reservados."
+  }
+}

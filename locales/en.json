@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "SRT to VTT Converter",
+    "description": "Convert SRT subtitle files to VTT format easily with our online tool."
+  },
+  "home": {
+    "title": "SRT to VTT Converter",
+    "subtitle": "Convert your SRT subtitle files to VTT format in seconds",
+    "dropzone": "Drop your SRT file here or click to browse",
+    "convert": "Convert to VTT",
+    "download": "Download VTT",
+    "processing": "Processing...",
+    "success": "Conversion successful!",
+    "error": "Error during conversion",
+    "invalidFile": "Invalid file format. Please upload a .srt file.",
+    "noFile": "Please select a file first."
+  },
+  "footer": {
+    "copyright": "© 2025 SRT to VTT Converter. All rights reserved."
+  }
+}

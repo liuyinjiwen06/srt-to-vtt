@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Convertisseur SRT vers VTT",
+    "description": "Convertissez facilement vos fichiers de sous-titres SRT au format VTT avec notre outil en ligne."
+  },
+  "home": {
+    "title": "Convertisseur SRT vers VTT",
+    "subtitle": "Convertissez vos fichiers de sous-titres SRT au format VTT en quelques secondes",
+    "dropzone": "Déposez votre fichier SRT ici ou cliquez pour parcourir",
+    "convert": "Convertir en VTT",
+    "download": "Télécharger VTT",
+    "processing": "Traitement en cours...",
+    "success": "Conversion réussie !",
+    "error": "Erreur lors de la conversion",
+    "invalidFile": "Format de fichier invalide. Veuillez télécharger un fichier .srt.",
+    "noFile": "Veuillez d'abord sélectionner un fichier."
+  },
+  "footer": {
+    "copyright": "© 2025 Convertisseur SRT vers VTT. Tous droits réservés."
+  }
+}

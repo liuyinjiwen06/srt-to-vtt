@@ -1,0 +1,7 @@
+// https://v8.i18n.nuxtjs.org/getting-started/setup
+export default {
+  legacy: false,
+  fallbackLocale: 'en',
+  missingWarn: true,
+  silentFallbackWarn: false
+};
