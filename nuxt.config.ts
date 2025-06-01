@@ -5,6 +5,9 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxtjs/i18n'
   ],
+  nitro: {
+    preset: 'cloudflare-pages'
+  },
   i18n: {
     lazy: true,
     langDir: './locales',
